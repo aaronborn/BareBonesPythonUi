@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, Menu
 
-
+#updated
 class MainApp(tk.Tk):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
